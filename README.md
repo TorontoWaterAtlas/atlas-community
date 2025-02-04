@@ -11,3 +11,10 @@ Here is  a list of a few different resources that will help you participate, eng
 - [Our community's disscussions / forum](https://github.com/TorontoWaterAtlas/atlas-community/discussions) to ask questions, share your progress and more.
 - Element disscussion's [invite link](https://matrix.to/#/#torontowateratlas:matrix.org)
 - [The project's website](https://torontowateratlas.github.io/)
+
+## Workshops / Co-Working Slides
+
+Here is the links to the slide decks for the various presentations given during the workshops and co-working sessions.
+
+- [Workshop - 25 Jan 2025: Water Atlas Presentation](https://github.com/TorontoWaterAtlas/atlas-community/blob/main/workshops/2025_01_25-Water_Atlas_Presentation.pdf)
+- [Tutorial - 04 Feb 2025: GitHub Tutorial](https://github.com/TorontoWaterAtlas/atlas-community/blob/main/coworking-tutorials/2025_02_04-GitHub_tutorial.pdf)
