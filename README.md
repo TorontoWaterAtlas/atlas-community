@@ -18,3 +18,14 @@ Here is the links to the slide decks for the various presentations given during 
 
 - [Workshop - 25 Jan 2025: Water Atlas Presentation](https://github.com/TorontoWaterAtlas/atlas-community/blob/main/workshops/2025_01_25-Water_Atlas_Presentation.pdf)
 - [Tutorial - 04 Feb 2025: GitHub Tutorial](https://github.com/TorontoWaterAtlas/atlas-community/blob/main/coworking-tutorials/2025_02_04-GitHub_tutorial.pdf)
+
+## Othe projects / maps for inspiration
+
+- [Anti-Eviction Mapping Project](https://antievictionmap.com/)
+  - Example of storymap: [Making Nuisance Neighborhoods](https://antievictionmappingproject.github.io/cnap-story-map/)
+  - Example of temporal map: [Ellis Act Evictions](https://www.antievictionmappingproject.net/ellis.html)
+- [Raindrop itinerary simulator](https://river-runner-global.samlearner.com/)
+- [The Yellowhead Treaty Map](https://treatymap.yellowheadinstitute.org/map/)
+- [Spacetime map of cities](https://maps.vvolhejn.com/)
+- [Population Density in the Greater Golden Horseshoe](https://www.mapto.ca/maps/popdens2016)
+- Static [Toronto Rail Transit Map](https://www.mapto.ca/maps/2018/11/26/toronto-rail-transit-map)
