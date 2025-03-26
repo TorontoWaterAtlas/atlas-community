@@ -18,6 +18,9 @@ Here is the links to the slide decks for the various presentations given during 
 
 - [Workshop - 25 Jan 2025: Water Atlas Presentation](https://github.com/TorontoWaterAtlas/atlas-community/blob/main/workshops/2025_01_25-Water_Atlas_Presentation.pdf)
 - [Tutorial - 04 Feb 2025: GitHub Tutorial](https://github.com/TorontoWaterAtlas/atlas-community/blob/main/coworking-tutorials/2025_02_04-GitHub_tutorial.pdf)
+- [Tutorial - 25 Feb 2025: MapBox Tutorial](https://github.com/TorontoWaterAtlas/atlas-community/blob/main/coworking-tutorials/2025_02_25_MapBox_tutorial.pdf)
+- [Workshop - 15 Mar 2025: Sketching Activities](https://github.com/TorontoWaterAtlas/atlas-community/blob/main/workshops/2025_03_15-Water_Atlas_Workshop.pdf)
+- [Tutorial - 25 Mar 2025: User Stories/Storyboard](https://github.com/TorontoWaterAtlas/atlas-community/blob/main/coworking-tutorials/2025_03_25_User_Stories_tutorial.pdf)
 
 ## Othe projects / maps for inspiration
 
