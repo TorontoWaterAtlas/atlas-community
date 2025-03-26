@@ -32,3 +32,4 @@ Here is the links to the slide decks for the various presentations given during 
 - [Spacetime map of cities](https://maps.vvolhejn.com/)
 - [Population Density in the Greater Golden Horseshoe](https://www.mapto.ca/maps/popdens2016)
 - Static [Toronto Rail Transit Map](https://www.mapto.ca/maps/2018/11/26/toronto-rail-transit-map)
+- Cool concept of a map of [Toronto's Waterways and Parks as a public transport map](https://jordanteichmann.ca/posts/the-toronto-waterways-and-parks-map/)
